@@ -1,5 +1,5 @@
 #list[]
-list_number = [1,23,5,4]
+list_number = [1,3.3,23,5,4]
 #print(type(list_number))
 sum=0
 for x in list_number:
@@ -16,6 +16,11 @@ print(list_number)
 #tuple()
 
 #sets{}
+x = {3,5,2,3,4}
 
 #dictionary {}
+{
+    'key' : {'value':3}
+}
+
 #dict1 = {key:value, key1:value1, key2:value2}
